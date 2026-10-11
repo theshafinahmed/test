@@ -1,0 +1,12 @@
+shafin.txt
+==========
+Purpose: A small hello file, created because Shafin said "add whatever you want."
+
+Hello, Shafin! 👋
+
+Three things worth remembering:
+1. Ship small, ship often. A rough thing that exists beats a perfect thing that doesn't.
+2. Learn the "why", not just the "what".
+3. Big empires start as boring files like this one.
+
+Now go build something huge. 🚀
