@@ -1,0 +1,5 @@
+random.txt
+==========
+Purpose: A throwaway file used to test that GitHub branch protection blocks direct pushes to main.
+
+Random fact: honey never really spoils. 🍯
